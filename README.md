@@ -5,7 +5,7 @@ Based in New York · Arabic (native), English, German
 
 - 🛡️ Google Cybersecurity Professional Certificate · TryHackMe PT1 · studying for CompTIA Security+
 - 🏆 Top 1% on [TryHackMe](https://tryhackme.com/p/AliAlassaf) · 460+ day learning streak · SOC Level 1 path
-- 🇺🇸 Vulnerability **resolved by the U.S. Department of Defense** (DoD VDP)
+- 🎖️ Vulnerability **resolved by the U.S. Department of Defense** (DoD VDP)
 - 🤖 I use Claude Code daily to run AI agents, MCP servers, and CLI automation
 
 ## Projects
